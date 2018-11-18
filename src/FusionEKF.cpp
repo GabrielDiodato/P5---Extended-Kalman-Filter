@@ -178,7 +178,7 @@ void FusionEKF::ProcessMeasurement(const MeasurementPackage &measurement_pack) {
 
   // Booleans for whether to use laser or radar or both in updates
   const bool laser = 1;
-  const bool radar = 0;
+  const bool radar = 1;
   
   //Check if measurement is radar and radar is used for updates
   if (measurement_pack.sensor_type_ == MeasurementPackage::RADAR && radar==1) {
