@@ -46,7 +46,7 @@ Figures 1 and 2 present the trajectories performed by the vehicle for datasets 1
 
 Figure 1: Dataset 1               |Figure 2: Dataset 2
 :--------------------------------:|:--------------------------------:
-<img src="./images/Dataset1.png"> |<img src="./images/Dataset2.png">
+<img src="./images/Dataset1.PNG"> |<img src="./images/Dataset2.PNG">
 
 
 #### 2. Only Lidar Measurements
@@ -64,7 +64,7 @@ Figures 3 and 4 present the trajectories performed by the vehicle for datasets 1
 
 Figure 3: Dataset 1                        |Figure 4: Dataset 2
 :-----------------------------------------:|:-----------------------------------------:
-<img src="./images/OnlyLidarDataset1.png"> |<img src="./images/OnlyLidarDataset2.png">
+<img src="./images/OnlyLidarDataset1.PNG"> |<img src="./images/OnlyLidarDataset2.PNG">
 
 
 #### 3. Only Radar Measurements
@@ -82,7 +82,7 @@ Figures 5 and 6 present the trajectories performed by the vehicle for datasets 1
 
 Figure 5: Dataset 1                        |Figure 6: Dataset 2
 :-----------------------------------------:|:-----------------------------------------:
-<img src="./images/OnlyRadarDataset1.png"> |<img src="./images/OnlyRadarDataset2.png">
+<img src="./images/OnlyRadarDataset1.PNG"> |<img src="./images/OnlyRadarDataset2.PNG">
 
 
 
