@@ -42,7 +42,7 @@ Figures 1 and 2
 
 Figure 1: Dataset 1               |Figure 2: Dataset 2
 :--------------------------------:|:--------------------------------:
-<img src="./images/Dataset1.png"> |<img src="./images/Dataset2.PNG">
+<img src="./images/Dataset1.PNG"> |<img src="./images/Dataset2.PNG">
 
 
 I tested the Extended Kalman Filter with the fusion of Lidar and Radar sensors. The fused sensors have positional root mean squared errors on the order of 0.09, while the velocity errors are on the order of 0.45. Here is an image of the output visualized with green being the filter estimation, and red and blue being the lidar and radar sensor data. Later I tested the filter with only radar or only lidar to see how the different sensors contribute to the errors.
